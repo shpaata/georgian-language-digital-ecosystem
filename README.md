@@ -1,1 +1,1 @@
-# georgian-language-digital-ecosystem
+Add project README
